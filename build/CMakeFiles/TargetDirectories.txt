@@ -1,0 +1,7 @@
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/CrystalEye.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/edit_cache.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/rebuild_cache.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/list_install_components.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/install.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/install/local.dir
+/Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/build/CMakeFiles/install/strip.dir
