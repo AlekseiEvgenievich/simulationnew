@@ -1,5 +1,5 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeCalorimeterSD.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeCalorimeterSD.cc \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeCalorimeterSD.cc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RunManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RunManagerKernel.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
@@ -693,16 +693,16 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeCalorimeterSD.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VDigiCollection.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserEventInformation.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterHit.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4THitsCollection.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterSD.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterSD.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VSensitiveDetector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VReadOutGeometry.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4SensitiveVolumeList.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4CollectionNameVector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VSDFilter.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Cache.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4CacheDetails.hh \

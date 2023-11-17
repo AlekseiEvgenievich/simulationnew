@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorConstruction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeDetectorConstruction.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeDetectorConstruction.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
@@ -449,7 +449,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorConstruction.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4AutoLock.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorMessenger.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorMessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UImessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UIdirectory.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UIcommand.hh \
@@ -460,7 +460,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorConstruction.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceSD.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceSD.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VSensitiveDetector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Step.hh \
@@ -564,10 +564,10 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorConstruction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4TouchableHistory.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4CollectionNameVector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VSDFilter.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceHit.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4THitsCollection.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterSD.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterHit.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterSD.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterHit.hh \
   /Users/aleksejsmirnov/Software/CADmesh/install/include/CADMesh.hh \
   /Users/aleksejsmirnov/Software/CADmesh/install/include/tetgen.h \
   /Users/aleksejsmirnov/Software/CADmesh/install/include/assimp/Importer.hpp \

@@ -1,5 +1,5 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyePrimaryGeneratorAction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyePrimaryGeneratorAction.cc \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyePrimaryGeneratorAction.cc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RunManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RunManagerKernel.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
@@ -693,7 +693,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyePrimaryGeneratorAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VDigiCollection.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserEventInformation.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePrimaryGeneratorAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ParticleGun.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VPrimaryGenerator.hh \
@@ -708,10 +708,10 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyePrimaryGeneratorAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4SPSEneDistribution.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4GeneralParticleSourceMessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4GeneralParticleSourceData.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePrimaryGeneratorMessenger.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePrimaryGeneratorMessenger.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root_defs.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/tools/histo/h1d \

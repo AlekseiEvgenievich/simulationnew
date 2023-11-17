@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeAnticoincidenceHit.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeAnticoincidenceHit.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceHit.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeAnticoincidenceHit.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \

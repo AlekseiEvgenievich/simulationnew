@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyePhysicsList.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyePhysicsList.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePhysicsList.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyePhysicsList.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePhysicsList.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VModularPhysicsList.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
@@ -582,7 +582,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyePhysicsList.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Random/RandStudentT.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4EmElementSelector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4PhysicsLogVector.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePhysicsListMessenger.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePhysicsListMessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UImessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UIdirectory.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UIcommand.hh \

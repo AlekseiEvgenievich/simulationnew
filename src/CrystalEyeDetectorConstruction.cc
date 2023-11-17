@@ -291,7 +291,8 @@ G4VPhysicalVolume* CrystalEyeDetectorConstruction::ConstructPayload()
 
 	file_name.clear();
 	//file_name = StructurePath + "DetectorStructure/Structure_V1/Structure/Mechanics.stl";
-	file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRE_STRUCTURE.stl";
+	//file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRE_STRUCTURE.stl";
+	file_name = "../detector3/CRE_STRUCTURE.stl";
 	tmp_char  = const_cast<char*>(file_name.c_str());
 
 	CADMesh * UpStructureMesh = new CADMesh(tmp_char, mm, offset, false);
@@ -321,7 +322,8 @@ G4VPhysicalVolume* CrystalEyeDetectorConstruction::ConstructPayload()
 		file_name.clear();
 		//file_name = StructurePath + "DetectorStructure/Structure_V1/Cal/Up"+std::to_string(i+1)+".stl";
 	//	file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRISTALLO_INF"+std::to_string(i+1)+".stl";
-		file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRISTALLO_SUP"+std::to_string(i+1)+".stl";
+	//	file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRISTALLO_SUP"+std::to_string(i+1)+".stl";
+		file_name = "../detector3/CRISTALLO_SUP"+std::to_string(i+1)+".stl";
 		tmp_char  = const_cast<char*>(file_name.c_str());
 
 		CADMesh * UpPixelmesh = new CADMesh(tmp_char ,mm, offset, false);
@@ -387,7 +389,9 @@ G4VPhysicalVolume* CrystalEyeDetectorConstruction::ConstructPayload()
 
 		file_name.clear();
 		//file_name =  StructurePath + "DetectorStructure/Structure_V1/Cal/Dw"+std::to_string(i+1)+".stl";
-		file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRISTALLO_INF"+std::to_string(i+1)+".stl";
+		//file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/CRISTALLO_INF"+std::to_string(i+1)+".stl";
+		file_name = "../detector3/CRISTALLO_INF"+std::to_string(i+1)+".stl";
+
 		tmp_char  = const_cast<char*>(file_name.c_str());
 
 		CADMesh * DownPixelmesh = new CADMesh(tmp_char, mm, offset, false);
@@ -417,7 +421,8 @@ G4VPhysicalVolume* CrystalEyeDetectorConstruction::ConstructPayload()
 	for (int i=0; i<1; i++) {
     //  for (int i=91; i<92; i++) {
 		file_name.clear();
-		file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/ACD1.stl";
+		//file_name = "/Users/aleksejsmirnov/Downloads/double/detector3/ACD1.stl";
+		file_name = "../detector3/ACD1.stl";
 		//file_name =  StructurePath + "DetectorStructure/Structure_V1/Veto/V"+std::to_string(i+1)+".stl";;
 		tmp_char  = const_cast<char*>(file_name.c_str());
 

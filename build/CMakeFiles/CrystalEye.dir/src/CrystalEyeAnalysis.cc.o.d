@@ -1,5 +1,5 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeAnalysis.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeAnalysis.cc \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeAnalysis.cc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__availability \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
@@ -693,7 +693,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeAnalysis.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VDigiCollection.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserEventInformation.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root_defs.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/tools/histo/h1d \
@@ -874,7 +874,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeAnalysis.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootAnalysisReader.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootRNtupleManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VRNtupleManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Cache.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4CacheDetails.hh

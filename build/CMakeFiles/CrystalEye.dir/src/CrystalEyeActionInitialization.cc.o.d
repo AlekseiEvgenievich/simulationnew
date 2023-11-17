@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeActionInitialization.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeActionInitialization.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeActionInitialization.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeActionInitialization.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeActionInitialization.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserActionInitialization.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
@@ -430,7 +430,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeActionInitialization.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4String.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/templates.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ExceptionSeverity.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePrimaryGeneratorAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ParticleGun.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VPrimaryGenerator.hh \
@@ -575,13 +575,13 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeActionInitialization.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UItokenNum.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ApplicationState.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4GeneralParticleSourceData.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeRunAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeRunAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserRunAction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeEventAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserEventAction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeTrackingAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeTrackingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserTrackingAction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeSteppingAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeSteppingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserSteppingAction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceDataManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterDataManager.hh
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceDataManager.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterDataManager.hh

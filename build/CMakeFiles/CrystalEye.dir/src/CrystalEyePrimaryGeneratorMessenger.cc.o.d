@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyePrimaryGeneratorMessenger.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyePrimaryGeneratorMessenger.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePrimaryGeneratorMessenger.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyePrimaryGeneratorMessenger.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePrimaryGeneratorMessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UImessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
@@ -441,7 +441,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyePrimaryGeneratorMessenger.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyePrimaryGeneratorAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyePrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ParticleGun.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VPrimaryGenerator.hh \

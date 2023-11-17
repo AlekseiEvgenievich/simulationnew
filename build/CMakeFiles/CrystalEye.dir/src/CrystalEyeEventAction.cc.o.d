@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeEventAction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeEventAction.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeEventAction.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeEventAction.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
@@ -434,7 +434,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeEventAction.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root.hh \
@@ -637,8 +637,8 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeEventAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootAnalysisReader.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootRNtupleManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VRNtupleManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceDataManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterDataManager.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceDataManager.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterDataManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4SystemOfUnits.hh \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Units/SystemOfUnits.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Units/defs.h \

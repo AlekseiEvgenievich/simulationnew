@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorMessenger.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeDetectorMessenger.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorMessenger.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeDetectorMessenger.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorMessenger.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Types.hh \
@@ -441,7 +441,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeDetectorMessenger.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Cache.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4CacheDetails.hh \

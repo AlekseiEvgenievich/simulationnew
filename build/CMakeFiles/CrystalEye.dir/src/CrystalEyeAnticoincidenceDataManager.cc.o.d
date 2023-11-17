@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeAnticoincidenceDataManager.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeAnticoincidenceDataManager.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceDataManager.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeAnticoincidenceDataManager.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceDataManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Types.hh \
@@ -429,7 +429,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeAnticoincidenceDataManager.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4String.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/templates.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ExceptionSeverity.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
@@ -450,7 +450,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeAnticoincidenceDataManager.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4AutoLock.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceHit.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4THitsCollection.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHitsCollection.hh \
@@ -460,7 +460,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeAnticoincidenceDataManager.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root_defs.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/tools/histo/h1d \

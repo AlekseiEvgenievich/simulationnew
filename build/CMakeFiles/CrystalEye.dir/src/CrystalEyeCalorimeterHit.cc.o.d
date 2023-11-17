@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeCalorimeterHit.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeCalorimeterHit.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterHit.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeCalorimeterHit.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VHit.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \

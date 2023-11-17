@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeSteppingAction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeSteppingAction.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeSteppingAction.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeSteppingAction.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeSteppingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserSteppingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ThreeVector.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
@@ -434,7 +434,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeSteppingAction.cc.o: \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.icc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeDetectorConstruction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeDetectorConstruction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VUserDetectorConstruction.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
@@ -455,9 +455,9 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeSteppingAction.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4AutoLock.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeEventAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserEventAction.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/g4root_defs.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/tools/histo/h1d \

@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeTrackingAction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeTrackingAction.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeTrackingAction.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeTrackingAction.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeTrackingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserTrackingAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
@@ -430,7 +430,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeTrackingAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4String.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/templates.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ExceptionSeverity.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeEventAction.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserEventAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ThreeVector.hh \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \

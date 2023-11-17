@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeRunAction.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeRunAction.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeRunAction.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeRunAction.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeRunAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UserRunAction.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Types.hh \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/complex \
@@ -430,7 +430,7 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeRunAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4String.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/templates.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ExceptionSeverity.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnalysis.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnalysis.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ThreeVector.hh \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/ThreeVector.h \
   /opt/homebrew/Cellar/clhep/2.4.6.3/include/CLHEP/Vector/defs.h \
@@ -637,8 +637,8 @@ CMakeFiles/CrystalEye.dir/src/CrystalEyeRunAction.cc.o: \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootAnalysisReader.icc \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4RootRNtupleManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VRNtupleManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeAnticoincidenceDataManager.hh \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeCalorimeterDataManager.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeAnticoincidenceDataManager.hh \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeCalorimeterDataManager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Run.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4UImanager.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4VStateDependent.hh \

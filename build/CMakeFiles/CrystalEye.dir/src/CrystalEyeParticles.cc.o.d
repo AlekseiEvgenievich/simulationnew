@@ -1,6 +1,6 @@
 CMakeFiles/CrystalEye.dir/src/CrystalEyeParticles.cc.o: \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/src/CrystalEyeParticles.cc \
-  /Users/aleksejsmirnov/Downloads/Code_Libo/CrystalEye/Prototype/include/CrystalEyeParticles.hh \
+  /Users/aleksejsmirnov/simulation/src/CrystalEyeParticles.cc \
+  /Users/aleksejsmirnov/simulation/include/CrystalEyeParticles.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/globals.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4ios.hh \
   /Users/aleksejsmirnov/Software/Geant4/install/include/Geant4/G4Types.hh \
